@@ -11,8 +11,8 @@ so hopefully you dont have to :)
 
 Show Don't Tell
 ===============
-* [examples/basic.html](http://jeromeetienne.github.io/threex.sample/examples/basic.html)
-\[[view source](https://github.com/jeromeetienne/threex.sample/blob/master/examples/basic.html)\] :
+* [examples/basic.html](http://jeromeetienne.github.io/rafhijacker/examples/basic.html)
+\[[view source](https://github.com/jeromeetienne/rafhijacker/blob/master/examples/basic.html)\] :
 It shows a basic usage of rafHijacker.js .
 
 ### Examples usage
