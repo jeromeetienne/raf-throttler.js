@@ -35,6 +35,3 @@ And at the end, restore the original requestAnimationFrame function
 ```
 rafHijacker.restore()
 ```
-
-### TODO
-- to rename raf-throttler.js ?
