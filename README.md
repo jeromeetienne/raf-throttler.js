@@ -11,8 +11,8 @@ so hopefully you dont have to :)
 
 Show Don't Tell
 ===============
-* [examples/basic.html](http://jeromeetienne.github.io/raf-throttler/examples/basic.html)
-\[[view source](https://github.com/jeromeetienne/raf-throttler/blob/master/examples/basic.html)\] :
+* [examples/basic.html](http://jeromeetienne.github.io/raf-throttler.js/examples/basic.html)
+\[[view source](https://github.com/jeromeetienne/raf-throttler.js/blob/master/examples/basic.html)\] :
 It shows a basic usage of rafHijacker.js .
 
 ### Examples usage

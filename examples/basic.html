@@ -21,13 +21,11 @@
 		<a href='javascript:void(0)' onclick='setFps(15)'>15 fps</a>
 		-
 		<a href='javascript:void(0)' onclick='setFps(30)'>30 fps</a>
+		-
+		frame count <span id='value'>n/a</span>
 	</div>
 	<div>
 		rafThrottler = <span id='fps'>n/a</span>;
-	</div>
-	<div>
-		frame count <span id='value'>n/a</span>
-		<br/>
 	</div>
 </div>
 <!-- ///////////////////////////////////////////////////////////////////////////// -->
@@ -40,6 +38,7 @@
 	
 	function setFps(fps){
 		rafThrottler.fps = fps
+		frameCount	= 0
 		document.querySelector('#fps').innerHTML = rafThrottler.fps
 	}
 	var frameCount = 0
